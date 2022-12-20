@@ -3,7 +3,7 @@ import Navbar from './components/Navbar'
 
 export default function App() {
   return (
-    <div className='container'>
+    <div className='container mx-auto'>
       <Navbar/>
       <Main/>
     </div>
